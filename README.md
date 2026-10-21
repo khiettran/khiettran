@@ -83,15 +83,13 @@ I started as a frontend specialist and grew into an engineer who owns products e
 - ✅ Introduced Cypress E2E testing — **18% fewer bug reports**, releases **3 days sooner** per 2-week sprint
 - 🛠️ Built an AI platform's entire frontend from scratch as the sole frontend engineer
 
-### Experience
+### Experience at a glance
 
-| Period | Role |
-|---|---|
-| 10/2025 – now | **Freelance Full-Stack Engineer** · Remote |
-| 09/2021 – 09/2025 | **Senior Frontend Engineer** · NFQ Vietnam |
-| 10/2019 – 08/2021 | **Senior Frontend Engineer** · Gogojungle Inc. |
-| 2017 – 2019 | **Senior Frontend Engineer** · Egopulse Vietnam |
-| 2013 – 2017 | **Full-Stack Engineer** · Global Cybersoft Vietnam (HL7 healthcare systems) |
+- 🗓️ **10+ years** in professional software engineering, **8+ years** as a senior engineer
+- 🌏 Worked with product and engineering teams across **Vietnam, Japan and Europe**, in English, fully remote and async
+- 🏭 Domains: **e-commerce & CMS**, **fintech & trading platforms**, **healthcare (HL7)**, **AI platforms**, **workforce & access-control systems**
+- 🧑‍🏫 Led frontend teams, built design systems, mentored engineers and ran code reviews
+- 💼 Currently **freelancing remotely**, taking on full-stack builds and frontend leadership
 
 ### How I like to work
 
